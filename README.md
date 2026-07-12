@@ -10,7 +10,7 @@ ffsfsgh
 
 我是 **Delta**. *小樊*？嗯…那也是我。
 
-我正在制作一个名叫**Create: More Chunks**的*《我的世界》整合包*
+我正在制作一个名叫**Create: More Chunks**的*Minecraft整合包*
 
 我正在学习如何使用*KubeJS*。同样，我也想要自己制作一个mod。
 
