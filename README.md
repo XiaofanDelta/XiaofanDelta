@@ -21,7 +21,7 @@ I'm **Delta**. *Xiaofan*? Hmm... It's also me.
 - 🎯 I want to make a mod by myself someday **(already done it!)**
 - ☕ Just making something I'm interested in
 
--  
+/
 
 - 🔭 我正在制作一个名叫 **Create: More Chunks** 的 *Minecraft 整合包*
 - 🌱 我正在学习如何使用 *KubeJS*
@@ -33,7 +33,7 @@ I'm **Delta**. *Xiaofan*? Hmm... It's also me.
 ## 🛠️ Tech & Tools / 技术与工具
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=java,python,js,git,github,idea,pycharm,vscode,gradle,md&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,python,js,nodejs,git,github,idea,pycharm,vscode,gradle,maven,md&theme=light" />
 </p>
 
 ---
